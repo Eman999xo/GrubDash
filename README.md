@@ -8,7 +8,7 @@ Of note, the front-end application was provided for this assignment.
 
 ## Screenshot
 ### Home Page:
-!home(/images/home.jpg)
+![home](/images/home.jpg)
 
 ## Technology
 - Built with Node.js and Express server framework
